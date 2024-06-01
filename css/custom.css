@@ -1,0 +1,19 @@
+/******************************************************************************************    
+    Project Name     :     WHITE GRAPHICS;
+
+            DEFAULT VALUES
+    FONT             :     Roboto Condensed;
+    Medium Turquoise :     #34C6d3 (Buttons, Icons ,Lines , & background)
+    Steel Grey       :     #41464B (Headings);
+    Blue Bayoux      :     #64707B (Paragraphs);
+    White            :     #fff(tezt with dark bg)
+    Black            :     #000;
+
+****************************************************************************************/
+
+/*************************************************************************************
+                            General CSS
+*********************************************************************************/
+body{
+    font-family: 'Roboto Condensed',sans-serif;
+}
